@@ -1,4 +1,5 @@
-![Uploading 649962a2ec9c7987c964fede_Rectangle 17.png…]()
+<img width="684" height="472" alt="649962a2ec9c7987c964fede_Rectangle 17" src="https://github.com/user-attachments/assets/78e5c4c0-15e6-4e87-b405-5e091115816d" />
+
 
 
 Problem Statement
