@@ -1,0 +1,37 @@
+This project explores an AI-native operator experience for autonomous security response during a high-risk intrusion scenario. The design focuses on speed, clarity, and trust, enabling operators to assess, coordinate, and document incidents with minimal cognitive load.
+
+Problem Statement
+
+Traditional security workflows are slow and fragmented. Operators must manually verify alerts, manage multiple tools, and document evidence—often under extreme pressure.
+
+Design Approach
+
+Situation-driven UI instead of static dashboards
+
+AI-first decision support with human override at every step
+
+Progressive disclosure of information based on urgency
+
+One-system mindset for managing multiple drones and teams
+
+Key Phases Covered
+
+Alert → Assessment: AI validates threats and presents confidence-based insights.
+
+Active Response: Operator sets intent; AI coordinates drones and teams.
+
+Evidence Capture: Automated, continuous, legally-valid documentation.
+
+Core Design Principles
+
+Less UI, more intelligence
+
+Trust through transparent AI actions
+
+Automation without loss of human control
+
+Minimal interactions for maximum impact
+
+Outcome
+
+The experience enables operators to respond within seconds instead of minutes, maintain situational awareness, and deliver complete evidence—without being overwhelmed.
