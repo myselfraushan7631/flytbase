@@ -1,5 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flytbase.com%2Fabout&psig=AOvVaw3UKIdzU20jZDx0BSoqAZrT&ust=1768041990640000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCW2emj_pEDFQAAAAAdAAAAABAL
-This project explores an AI-native operator experience for autonomous security response during a high-risk intrusion scenario. The design focuses on speed, clarity, and trust, enabling operators to assess, coordinate, and document incidents with minimal cognitive load.
+![Uploading 649962a2ec9c7987c964fede_Rectangle 17.png…]()
+
 
 Problem Statement
 
